@@ -22,7 +22,7 @@ func main() {
 	fmt.Print("Enter the width (cm): ")
 	fmt.Scanln(&width)
 	fmt.Println()
-
+	
 	//process
 	area = length * width
 	perimeter = 2 * (length + width)
