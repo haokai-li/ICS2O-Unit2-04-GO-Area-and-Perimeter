@@ -10,7 +10,7 @@ func main() {
 
 	// This function does addition
 	var length int
-  var width int
+	var width int
 	var area int
 	var perimeter int
 
