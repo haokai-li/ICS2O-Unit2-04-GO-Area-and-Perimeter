@@ -1,1 +1,2 @@
 # ICS2O-Unit2-04-GO-Area-and-Perimeter
+[![GitHub's Super Linter](https://github.com/haokai-li/ICS2O-Unit2-04-GO-Area-and-Perimeter/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/ICS2O-Unit2-04-GO-Area-and-Perimeter/actions)
