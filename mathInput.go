@@ -2,7 +2,6 @@
 // Created on: May 2021
 // This program displays, "Area-and-Perimeter"
 
-
 package main
 
 import "fmt"
