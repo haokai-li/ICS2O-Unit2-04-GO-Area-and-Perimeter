@@ -7,7 +7,6 @@ package main
 import "fmt"
 
 func main() {
-	
 	// This function does addition
 	var length int
 	var width int
@@ -23,7 +22,7 @@ func main() {
 	fmt.Scanln(&width)
 	fmt.Println()
 	
-	//process
+	// process
 	area = length * width
 	perimeter = 2 * (length + width)
 	
